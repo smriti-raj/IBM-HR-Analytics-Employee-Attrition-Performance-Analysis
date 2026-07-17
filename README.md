@@ -9,6 +9,7 @@ This project analyzes the **IBM HR Analytics Employee Attrition & Performance** 
 ## 📂 Dataset
 
 **Dataset Name:** IBM HR Analytics Employee Attrition & Performance
+Datasets - https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 The dataset contains employee information such as:
 
